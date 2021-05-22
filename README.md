@@ -1,3 +1,10 @@
+* [On the Restriction of Asymmetric Pairing based on Symmetric][scis2021].
+  Fumitaka Hoshino.
+  SCIS 2021 Proceedings, 3B1-2,
+  対称ペアリングを用いて非対称ペアリングに似た性質を持つ暗号プリミティブを構成できる事が知られている. そのように構成した暗号プリミティブは対称ペアリングと非対称ペアリングを折衷したような性質を持ち, 高機能な暗号方式への適用が期待できる. しかし, そのようなプリミティブが, どのような制約を持つかは, それほど明確になっていない. 本稿ではそのような暗号プリミティブの適用限界について論じる.
+
+[scis2021]:scis2021.pdf
+
 * [Asymmetric Pairing based on Symmetric Pairing][scis2020].
   Fumitaka Hoshino and Tetsutaro Kobayashi.
   SCIS 2020 Proceedings, 3B1-2, pp.1385-1392
