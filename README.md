@@ -411,12 +411,12 @@
 
 [2001/chaos.pdf]:2001/chaos.pdf
 
-* Software Implementation of Parallel Elliptic Curve Cryptosystem.
+* [Software Implementation of Parallel Elliptic Curve Cryptosystem.][2001/parallel.pdf]
   Tetsutaro Kobayashi, Kazumaro Aoki, Fumitaka Hoshino, and Hiroaki Oguro.
   SCIS 2001 Proceedings pp.299-303
   * GF(2^m)上の楕円スカラー倍のビットスライス実装法を提案する. この方法はソフトウェア実装に適している. 並列計算の数はCPUのワードサイズ(例えば 32, 64 など) である. この方法を用いるとビット毎の演算が効率的に実行できる. 理論的には従来の実装よりおよそ2倍高速化できる. 本論文では理論的効率およびビットスライス法および従来の方法のPentium III PC上の実装について議論する.
 
-
+[2001/parallel.pdf]:2001/parallel.pdf
 
 * Electronic Voting Schemes using MIX-net.
   Masayuki Abe, Atsushi Fujioka, Fumitaka Hoshino, Miyako Ohkubo, and Koutarou Suzuki.
@@ -467,12 +467,12 @@
 
 [1999/3-540-48910-X_13.pdf]:1999/3-540-48910-X_13.pdf
 
-* Elliptic Curve Algorithm on OEF with Frobenius Map.
+* [Elliptic Curve Algorithm on OEF with Frobenius Map.][1999/scis1999.pdf]
   Tetsutaro Kobayashi, Kazumaro Aoki, Hikaru Morita, Kunio Kobayashi, and Fumitaka Hoshino.
   SCIS 99 Proceedings pp.289-292
   * 新しい楕円スカラー倍アルゴリズムを提案する.フロベニウス写像とφ進展開に基づくテーブル参照法を組み合わせる事により、本アルゴリズムは従来の最適拡大体(OEF)に基づくアルゴリズムと比較して、およそ２倍高速となった. さらに、このアルゴリズムは 16,32,および64bit といった良く使用される計算単位に適しており, その定義体 GF(p^m) はソフトウェア実装においては素体あるいは2の拡大体よりも効率が良い事が期待できる. 提案アルゴリズムの効率を明らかにする為, 本論文では実装結果を報告する。
 
-
+[1999/scis1999.pdf]:1999/scis1999.pdf
 
 * [Spherical cavity-mode laser with self-organized CuCl microspheres.][1997/ol-22-21-1630.pdf]
   Masaya Nagai, Fumitaka Hoshino, Susumu Yamamoto, Ryo Shimano, and Makoto Kuwata-Gonokami.
