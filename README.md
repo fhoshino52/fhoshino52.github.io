@@ -418,47 +418,47 @@
 
 [2001/parallel.pdf]:2001/parallel.pdf
 
-* Electronic Voting Schemes using MIX-net.
+* [Electronic Voting Schemes using MIX-net.][2000/NTT_R_and_D.pdf]
   Masayuki Abe, Atsushi Fujioka, Fumitaka Hoshino, Miyako Ohkubo, and Koutarou Suzuki.
   NTT R&D, 49(11), 2000 pp.685-693
   * 本論文では, 電子投票方式において匿名性を保つために重要な役割を果たすMIX-netについて概説し, それを用いた電子投票方式について述べる. MIX-net については, 長さ不変性を満たす MIX-net と, 全体検証可能性を満たす MIX-net を提案する. また, 投票の買収・脅迫を防止するために重要な無証拠性について概説し, これを実現する電子投票方式を提案する.
 
+[2000/NTT_R_and_D.pdf]:2000/NTT_R_and_D.pdf
 
-
-* OEF Using a Successive Extension.
+* [OEF Using a Successive Extension.][2000/scis2000b02.pdf]
   Tetsutaro Kobayashi, Kazumaro Aoki, and Fumitaka Hoshino.
   SCIS 2000 Proceedings B02
   * 新しいOEFのクラスを提案する.このOEFは逐次拡大を使って構成される. 本論文の解析によればこのOEF上の逆元アルゴリズムはGF(p^m)乗算1.5回分とGF(p)逆元1回分の計算コストしか要しない.一方Bailey および Paar のアルゴリズムGF(p^m) 乗算3回分とGF(p)逆元1回分を要する.
 
+[2000/scis2000b02.pdf]:2000/scis2000b02.pdf
 
-
-* The Fastest ECC Implementations.
+* [The Fastest ECC Implementations.][2000/scis2000b05.pdf]
   Kazumaro Aoki, Tetsutaro Kobayashi, and Fumitaka Hoshino.
   SCIS 2000 Proceedings B05,
   * 本論文では, 次数2の多項式用Karatsuba-Ofman 乗算を最適化し, 結果をGF(p^3)-型OEFに適用した. 結果として21164A(500MHz)上で816μ秒の楕円暗号化実現した. この結果は PKC2000で提示されたLim-Hwangの結果よりおよそ6% 高速である. また提案アルゴリズムは 21264(500MHz)上では354μ秒の楕円暗号化実現した. さらに本論文では並列乗算を使った楕円曲線アルゴリズムを提案する. このアルゴリズムはIntel の MMX テクノロジーに良く適合しGF(p^13)-型OEFに適用された. 結果としてLim-Hwangの結果より楕円加算と楕円スカラー倍が14%高速化した.
 
+[2000/scis2000b05.pdf]:2000/scis2000b05.pdf
 
-
-* An Electronic Voting Scheme with Revocable Threshold Blind Signatures.
+* [An Electronic Voting Scheme with Revocable Threshold Blind Signatures.][2000/scis2000b25.pdf]
   Masayuki Abe, Miyako Ohkubo, Atsushi Fujioka, and Fumitaka Hoshino.
   SCIS 2000 Proceedings B25
   * 本論文では物理的な匿名通信路を排除する為, (必ずしも検証可能ではない) 単純なMix-netと追跡可能ブラインド署名を用いて電子投票方式を構成した.提案方式は半数より少ないmix-サーバのメモリイメージを入手可能で最大 n 人中の n-2 人の投票者を操作できる攻撃者に耐性を持つ.
 
+[2000/scis2000b25.pdf]:2000/scis2000b25.pdf
 
-
-* [More efficient mix-network on permutation networks.][2000/scis2000.pdf]
+* [More efficient mix-network on permutation networks.][2000/scis2000b28.pdf]
   Fumitaka Hoshino and Masayuki Abe.
   SCIS 2000 Proceedings　B28
   * 阿部が提案した,小中規模無記名電子投票向きUniversally Verifiable Mix-net の 2 つの構成法 (1-pass 方式 と2-pass 方式)の,それぞれの利点を継承する方式を提案する. 新しい方式は従来同様,検証性, 匿名性, 頑健性などの安全性の要件を満たしている. さらに新しい方法は阿部の 2-pass 方式と計算量的に同等でありながら, 1-pass を実現している. 本論文ではさらに演算方法の検討も行い,現実的にどこまで速くプロトコルを実行できるか追求する.
 
-[2000/scis2000.pdf]:2000/scis2000.pdf
+[2000/scis2000b28.pdf]:2000/scis2000b28.pdf
 
-* An Implementation and an Experiment of a Practical and Secure Voting Scheme.
+* [An Implementation and an Experiment of a Practical and Secure Voting Scheme.][2000/scis2000c48.pdf]
   Atsushi Fujioka, Masayuki Abe, Miyako Ohkubo, and Fumitaka Hoshino.
   SCIS 2000 Proceedings　C48
   * 最近, 世界中で試験的に実装されている電子投票方式 (FOO方式) の投票者の利便性 (非待機時) を向上させた方式を紹介し, その実装 (および公開実験) について述べる. この方式では, 開票者を複数おき, 投票内容を開票者が分散復号可能な閾値暗号で暗号化することにより, 公平性と非待機性を両立させている. また, この方式の実装を試み, 方式全体の評価や実用性についての検討を行い, 今後予定している公開実験について述べる.
 
-
+[2000/scis2000c48.pdf]:2000/scis2000c48.pdf
 
 * [Fast Elliptic Curve Algorithm Combining Frobenius Map and Table Reference to Adapt to Higher Characteristic.][1999/3-540-48910-X_13.pdf]
   Tetsutaro Kobayashi, Hikaru Morita, Kunio Kobayashi, and Fumitaka Hoshino.
