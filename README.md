@@ -448,22 +448,24 @@
   SCIS 2000 Proceedings　C48
   最近, 世界中で試験的に実装されている電子投票方式 (FOO方式) の投票者の利便性 (非待機時) を向上させた方式を紹介し, その実装 (および公開実験) について述べる. この方式では, 開票者を複数おき, 投票内容を開票者が分散復号可能な閾値暗号で暗号化することにより, 公平性と非待機性を両立させている. また, この方式の実装を試み, 方式全体の評価や実用性についての検討を行い, 今後予定している公開実験について述べる.
   
-* Fast Elliptic Curve Algorithm Combining Frobenius Map and Table Reference to Adapt to Higher Characteristic.
+* [Fast Elliptic Curve Algorithm Combining Frobenius Map and Table Reference to Adapt to Higher Characteristic.][1999/3-540-48910-X_13.pdf]
   Tetsutaro Kobayashi, Hikaru Morita, Kunio Kobayashi, and Fumitaka Hoshino.
   EUROCRYPT99 Proceedings, LNCS 1592, pp.176-189.
   新しい楕円スカラー倍アルゴリズムを提案する.フロベニウス写像とφ進展開に基づくテーブル参照法を組み合わせる事により、本アルゴリズムは従来の最適拡大体(OEF)に基づくアルゴリズムと比較して、およそ２倍高速となった. さらに、このアルゴリズムは 16,32,および64bit といった良く使用される計算単位に適しており, その定義体 GF(p^m) はソフトウェア実装においては素体あるいは2の拡大体よりも効率が良い事が期待できる.
+
+[1999/3-540-48910-X_13.pdf]:1999/3-540-48910-X_13.pdf
   
-* [Elliptic Curve Algorithm on OEF with Frobenius Map.][1999/3-540-48910-X_13.pdf]
+* Elliptic Curve Algorithm on OEF with Frobenius Map.
   Tetsutaro Kobayashi, Kazumaro Aoki, Hikaru Morita, Kunio Kobayashi, and Fumitaka Hoshino.
   SCIS 99 Proceedings pp.289-292
   新しい楕円スカラー倍アルゴリズムを提案する.フロベニウス写像とφ進展開に基づくテーブル参照法を組み合わせる事により、本アルゴリズムは従来の最適拡大体(OEF)に基づくアルゴリズムと比較して、およそ２倍高速となった. さらに、このアルゴリズムは 16,32,および64bit といった良く使用される計算単位に適しており, その定義体 GF(p^m) はソフトウェア実装においては素体あるいは2の拡大体よりも効率が良い事が期待できる. 提案アルゴリズムの効率を明らかにする為, 本論文では実装結果を報告する。
 
-[1999/3-540-48910-X_13.pdf]:1999/3-540-48910-X_13.pdf
-  
-* Spherical cavity-mode laser with self-organized CuCl microspheres.
+* [Spherical cavity-mode laser with self-organized CuCl microspheres.][1997/ol-22-21-1630.pdf]
   Masaya Nagai, Fumitaka Hoshino, Susumu Yamamoto, Ryo Shimano, and Makoto Kuwata-Gonokami.
   Optics Letters, 22(21):1630–1632.
   低温におけるサブピコ秒紫外レーザ励起の下での半導体微小球中の励起子ポラリトンの球空洞モードレーザ発振を報告する. CuCl の小さいバルク結晶を溶融し、直径数～数十マイクロメータの溶融微小球を形成した.レーザ発信の閾値は 1nJ/pulse で, これは109光子/pulse に相当する. レーザ励起に応答して双励起子から縦波励起子への遷移が起こるする事を発見した.
+
+[1997/ol-22-21-1630.pdf]:1997/ol-22-21-1630.pdf
 
 * [CRYPTREC Report 2009 暗号方式委員会報告][CRYPTREC2009],
   CRYPTREC,
