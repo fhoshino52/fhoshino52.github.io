@@ -1,8 +1,3 @@
-|リンク          |説明                                                |
-|:--------------:|:--------------------------------------------------:|
-|[表紙][this]    |このページ                                          |
-|[github][gitrep]|github repository                                   |
-  
 * CRYPTREC Report 2008 暗号技術監視委員会報告
   CRYPTREC
   CRYPTREC
@@ -352,3 +347,11 @@
   Masaya Nagai, Fumitaka Hoshino, Susumu Yamamoto, Ryo Shimano, and Makoto Kuwata-Gonokami.
   Optics Letters, 22(21):1630–1632.
   低温におけるサブピコ秒紫外レーザ励起の下での半導体微小球中の励起子ポラリトンの球空洞モードレーザ発振を報告する. CuCl の小さいバルク結晶を溶融し、直径数～数十マイクロメータの溶融微小球を形成した.レーザ発信の閾値は 1nJ/pulse で, これは109光子/pulse に相当する. レーザ励起に応答して双励起子から縦波励起子への遷移が起こるする事を発見した.
+
+|リンク          |説明                                                |
+|:--------------:|:--------------------------------------------------:|
+|[表紙][this]    |このページ                                          |
+|[github][gitrep]|github repository                                   |
+
+[this]:https://fhoshino52.github.io
+[gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
