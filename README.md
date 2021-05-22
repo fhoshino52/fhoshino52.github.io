@@ -1,8 +1,10 @@
-* Asymmetric Pairing based on Symmetric Pairing.
+* [Asymmetric Pairing based on Symmetric Pairing][scis2020].
   Fumitaka Hoshino and Tetsutaro Kobayashi.
   SCIS 2020 Proceedings, 3B1-2, pp.1385-1392
   対称ペアリングを用いて非対称ペアリングに似た性質を持つ暗号プリミティブを構成できる事が知られている . そのように構成した暗号プリミティブは対称ペアリングと非対称ペアリングを折衷したような性質を持ち , 高機能な暗号方式への適用が期待できる . 本発表ではそのような暗号プリミティブの構成について解説し , 教科書的な各種の離散対数ベースの応用プロトコルに対して、本プリミティブの適用性を評価し , 様々な問題点を議論する.
   
+[scis2020]:scis2020.pdf
+
 * On an Application of a Variant of Trapdoor DDH Group.
   Fumitaka Hoshino and Tetsutaro Kobayashi.
   CSS 2019 Proceedings, pp.1535-1542
@@ -193,11 +195,11 @@
   SCIS 2005 Proceedings 3D4-3, pp.1394-1397
   DDH に関する witness を CDH に関する witness から分離できるような群の family である revocable DDH group を提案し , そのセキュリティについて考察する . またそのアプリケーションとして , 任意の暗号文の同一性検証が可能となる検証鍵を秘密鍵から分離出来る暗号系を提案する . また楕円曲線上の点のある同型写像の一方向性に着目し 非 trace-2 の non-supersingular 楕円曲線を用いて安全な revocable DDH group を構成する方法を提案する.
   
-* 
 * Privacy enhanced active RFID tag.
   Shingo Kinoshita, Fumitaka Hoshino, Tomoyuki Komuko, Akiko Fujimura, and Miyako Ohkubo.
-  Proc. of International Workshop on Exploiting Context Histories in Smart Environments, 2005
-  
+  Proc. of International Workshop on Exploiting Context Histories in Smart Environments, 2005,
+  プライバシ強化されたアクティブRFIDタグ.
+
 * RFID Privacy Protection Protocol for Libraries with the Unidentifiable Anonymous ID Scheme.
   Gembu Morohashi, Shingo Kinoshita, and Fumitaka Hoshino.
   CSS 2004 Proceedings 2B-3,
@@ -212,11 +214,11 @@
   Taiichi Saito, Fumitaka Hoshino, Shigenori Uchiyama, and Tetsutaro Kobayashi.
   IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, E87.A(5):1203-1205,
   本論文では非超特異楕円曲線に基づいて, ペアリングに基づく暗号系を構成する方法を与える.
-  
-* 
+
 * Applying Auto-ID to the Japanese Publication Business To Deliver Advanced Supply Chain Managment, Innovative Retail Applications, and Convenient and Safe Reader Services.
   Toshiharu Ishikawa, Yukiko Yumoto, Michio Kurata, Makoto Endo, Shingo Kinoshita, Fumitaka Hoshino, Satoshi Yagi, and Masatoshi Nomachi.
   AUTO-ID Center white paper
+  高度なサプライチェーンマネジメント、革新的なリテールアプリケーション、便利で安全な読取サービスを実現する為の日本の出版ビジネスへのAuto-IDの適用.
   
 * Nonidentifiable Anonymous-ID Scheme for RFID Privacy Protection.
   Shingo Kinoshita, Fumitaka Hoshino, Tomoyuki Komuko, Akiko Fujimura, and Miyako Ohkubo.
@@ -352,6 +354,7 @@
   
 [CRYPTREC2008]:https://www.cryptrec.go.jp/report/cryptrec-rp-2000-2008.pdf
 
+<!--
 |リンク          |説明                                                |
 |:--------------:|:--------------------------------------------------:|
 |[表紙][this]    |このページ                                          |
@@ -359,3 +362,4 @@
 
 [this]:https://fhoshino52.github.io
 [gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
+-->
