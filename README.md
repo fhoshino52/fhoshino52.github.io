@@ -1,13 +1,3 @@
-* CRYPTREC Report 2008 暗号技術監視委員会報告
-  CRYPTREC
-  CRYPTREC
-  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号技術監視委員会の 2008 年度活動報告である。
-  
-* CRYPTREC Report 2009 暗号方式委員会報告
-  CRYPTREC
-  CRYPTREC
-  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号方式委員会の 2009 年度活動報告である。
-  
 * Asymmetric Pairing based on Symmetric Pairing.
   Fumitaka Hoshino and Tetsutaro Kobayashi.
   SCIS 2020 Proceedings, 3B1-2, pp.1385-1392
@@ -347,6 +337,20 @@
   Masaya Nagai, Fumitaka Hoshino, Susumu Yamamoto, Ryo Shimano, and Makoto Kuwata-Gonokami.
   Optics Letters, 22(21):1630–1632.
   低温におけるサブピコ秒紫外レーザ励起の下での半導体微小球中の励起子ポラリトンの球空洞モードレーザ発振を報告する. CuCl の小さいバルク結晶を溶融し、直径数～数十マイクロメータの溶融微小球を形成した.レーザ発信の閾値は 1nJ/pulse で, これは109光子/pulse に相当する. レーザ励起に応答して双励起子から縦波励起子への遷移が起こるする事を発見した.
+
+* [CRYPTREC Report 2009 暗号方式委員会報告][CRYPTREC2009],
+  CRYPTREC,
+  CRYPTREC,
+  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号方式委員会の 2009 年度活動報告である。
+
+[CRYPTREC2009]:https://www.cryptrec.go.jp/report/cryptrec-rp-2000-2009.pdf
+
+* [CRYPTREC Report 2008 暗号技術監視委員会報告][CRYPTREC2008],
+  CRYPTREC,
+  CRYPTREC,
+  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号技術監視委員会の 2008 年度活動報告である。
+  
+[CRYPTREC2008]:https://www.cryptrec.go.jp/report/cryptrec-rp-2000-2008.pdf
 
 |リンク          |説明                                                |
 |:--------------:|:--------------------------------------------------:|
