@@ -117,6 +117,7 @@
 }
 
 .footerSize{
-    height: 30vh;
+/*  height: 30vh; */
+    height: 1vh;
     width: 100%;
 }
