@@ -64,9 +64,14 @@
   Yoneyama らは, 多人数での通信における ユーザエンドでの End-to-End 暗号化 (E2EE) を実現するために, 通信効率の良い動的多者鍵配布 (DMKD) プロトコルの具体的な方式を提案している. しかし, この DMKD プロトコルは量子コンピュータの解読に耐性のない Diffie-Hellman(DH) 鍵交換を利用している. 本研究では量子コンピュータの実用化に備え, Yoneyama らの DMKD プロトコルをモデルとした, これに耐性のあるプロトコルの構築を目的とした.本稿では二者間鍵交換を KEM で記述し, 格子暗号をはじめとしたポスト量子暗号が適用可能な DMKD プロトコルの一般的な構成を提案する.
 
 1. [Faster Bilinear-Type Conversion.][2017/1B1-4.pdf]
-  Fumitaka Hoshino
+  Fumitaka Hoshino,
   SCIS 2017 Proceedings 1B1-4, pp.102-109<br>
   非対称ペアリングは対称ペアリングと比較して代数的構造は複雑だが実装の効率はずっと良い. 従って, ペアリングに基づく暗号方式を構成する際， 一旦は対称ペアリング上で設計を行い，しかる後に非対称ペアリングの代数的構造に合わせ再設計し実装を得る事が多くなっている. 2016年, 阿部らは方式の安全性を維持したまま, このタスクを自動実行する効率的なアルゴリズムを発表した. 本研究ではこのアルゴリズムを簡素化して, 幾分高速化する.
+
+1. [Software-based Modification Detection of ECU for Automotive Network System Attestation.][2017/ICSS2016-39.jpg]
+  Takuma Koyama, Junko Takahashi, Fumitaka Hoshino, Masashi Tanaka,
+  Technical Report of IEICE. Vol.116(328), ICSS2016-39, pp.3-8, Nov. 2016.<br>
+  本稿では車載ネットワークに接続する制御機器（ECU）のソフトウェアの改竄検知方式を提案する．車外ネットワークと通信するコネクテッドカーおよび自動運転技術の研究開発が進む中，車載ネットワークに対する脅威として遠隔からのECUのソフトウェア改竄が指摘されている．提案方式では既存方式が見逃しうる改竄を検知可能とするためにECUのメモリの空き領域に検証領域を拡張した．ソフトウェアがメモリサイズの約9割以上を占める条件下では既存方式より高速に検証可能である．
 
 1. [Design in Type-I, Run in Type-III: Fast and Scalable Bilinear-Type Conversion Using Integer Programming.][2016/978-3-662-53015-3_14.pdf]
   Masayuki Abe, Fumitaka Hoshino, and Miyako Ohkubo,
@@ -389,6 +394,7 @@
 [2018/1B1-3.pdf]:2018/1B1-3.pdf
 [2018/3A3-4.pdf]:2018/3A3-4.pdf
 [2018/3A2-1.pdf]:2018/3A2-1.pdf
+[2017/ICSS2016-39.jpg]:2017/ICSS2016-39.jpg
 [2017/1B1-4.pdf]:2017/1B1-4.pdf
 [2016/978-3-662-53015-3_14.pdf]:2016/978-3-662-53015-3_14.pdf
 [2016/2D1-1.pdf]:2016/2D1-1.pdf
