@@ -275,7 +275,7 @@
 
 1. [Non-Supersingular Elliptic Curves for Pairing-Based Cryptosystems.][2003/ISEC2003.pdf]
   Taiichi Saito, Fumitaka Hoshino, Shigenori Uchiyama, and Tetsutaro Kobayashi.
-  Technical Report of IEICE. Vol.103(315), pp.95-101, Sep.2003. (ISEC2003-64)<br>
+  Technical Report of IEICE. Vol.103(315), ISEC2003-64, pp.95-101, Sep. 2003.<br>
   本稿は、非超特異楕円曲線上のある種の自己準同型写像を用いて構成した一方向性関数を提案し、その一方向性の傍証をいくつか与える。
 
 1. [On the Fast DL Verification.][2003/15C-3.pdf]
