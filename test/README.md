@@ -1,3 +1,11 @@
+|リンク          |説明                                                |
+|:--------------:|:--------------------------------------------------:|
+|[表紙][this]    |このページ                                          |
+|[github][gitrep]|github repository                                   |
+
+[this]:https://fhoshino52.github.io
+[gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
+
 1. [On the Restriction of Asymmetric Pairing based on Symmetric Pairing.][2021/scis2021]
   Fumitaka Hoshino.
   SCIS 2021 Proceedings, 3B1-2,<br>
@@ -430,13 +438,3 @@
 [1999/3-540-48910-X_13.pdf]:1999/3-540-48910-X_13.pdf
 [1999/scis1999.pdf]:1999/scis1999.pdf
 [1997/ol-22-21-1630.pdf]:1997/ol-22-21-1630.pdf
-
-<!--
-|リンク          |説明                                                |
-|:--------------:|:--------------------------------------------------:|
-|[表紙][this]    |このページ                                          |
-|[github][gitrep]|github repository                                   |
-
-[this]:https://fhoshino52.github.io
-[gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
--->
