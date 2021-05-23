@@ -28,7 +28,7 @@
   IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, E102.A(9):1285-1292,<br>
   高速なペアリングライブラリの実装は特定の曲線やパラメータ限られることが多く、個別の暗号方式の効率を様々な曲線やパラメータに対して実装評価することは多大な労力・コストを要する。本稿では，ペアリング群上の暗号方式の様々な曲線およびパラメータ設定におけるパフォーマンスを簡易的に評価するフレームワーク 'Opcount' を提案する。擬似コードによる暗号方式の記述と、評価対象の曲線における基本演算のパフォーマンスを記録した実装情報データベースから、その暗号方式のパフォーマンスを見積もることで、適切な曲線やパラメータの選択を可能とした。
 
-1. [Theory of Type Conversion for Pairing-based Crypto Schemes][2019/thesis.pdf]
+1. [Theory of Type Conversion for Pairing-based Crypto Schemes.][2019/thesis.pdf]
   Fumitaka Hoshino,
   Department of Mathematical and Computing Science, School of Computing, Tokyo Institute of Technology, 2019<br>
   対称ペアリング群上設計された暗号方式を，非対称ペアリング群上のなるべく効率的な方式に，安全性を損なわずに変換するアルゴリズムをペアリング型変換と呼ぶ。本論文ではペアリング型変換に関して考察し，次の3つの結果を得た。 (1) 標準的な計算量仮定の下，最悪の入力でも多項式時間で最適解を見つけるアルゴリズムは存在しない事を証明した。 (2) 整数計画法を用いた実用的なアルゴリズムを提案した。 (3) 暗号学的に興味深い変換例を示した。これらの結果により、2014年に提案されたペアリング型変換に関するオープン問題を解決した。
