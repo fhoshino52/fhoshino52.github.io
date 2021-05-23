@@ -8,8 +8,9 @@
 [gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
 -->
 
-# Publication List (Fumitaka Hoshino)
-## University of Nagasaki
+# Publication List 
+## Fumitaka Hoshino
+##
 
 1. [On the Restriction of Asymmetric Pairing based on Symmetric Pairing.][2021/scis2021]
   Fumitaka Hoshino.
