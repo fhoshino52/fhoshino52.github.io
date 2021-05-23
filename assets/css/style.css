@@ -48,8 +48,13 @@
 }
 
 .Margins{
+    padding-left: 6%;
+    width: 88%;
+    padding-bottom: 15px;
+/*
     padding-left: 21%;
     width: 58%;
+*/
 }
 
 .AbstractMargins{
