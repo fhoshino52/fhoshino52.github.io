@@ -1,3 +1,13 @@
+<!--
+|リンク          |説明                                                |
+|:--------------:|:--------------------------------------------------:|
+|[表紙][this]    |このページ                                          |
+|[github][gitrep]|github repository                                   |
+
+[this]:https://fhoshino52.github.io
+[gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
+-->
+
 1. [On the Restriction of Asymmetric Pairing based on Symmetric Pairing.][2021/scis2021]
   Fumitaka Hoshino.
   SCIS 2021 Proceedings, 3B1-2,<br>
@@ -253,6 +263,11 @@
   IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, E86.A(1):64-72,<br>
   一括検証は暗号学的な大量の等式を同時に全て検証する為の便利な道具である. 特に法指数演算に基づく述語を検証する時に効果が大きい. しかしながら, 場合によっては, 一括検証が等式をまとめて判定する時, 正しいと判定するにも関わらず, 実際には幾つかの等式が正しくない事がある. 実は, そのような判定の緩さは, あらかじめ等式の要素の定義域をチェックする事によって排除する事ができる. この事実を念頭に, 本論文では厳密一括検証の概念を導入し, 厳密一括検証が等式を個別に検証するよりも、やはり効率的であるか否かを調査した. 様々なタイプの群上の厳密一括検証の効率を見積もり, 群とパラメタの選択に依存して, 効率が大きく変化する事が示された.この論文はISC 2001 で発表された同タイトルの論文の内容に, その後の研究成果を追加して改訂した論文である.
 
+1. [Non-Supersingular Elliptic Curves for Pairing-Based Cryptosystems.][2003/ISEC2003.pdf]
+  Taiichi Saito, Fumitaka Hoshino, Shigenori Uchiyama, and Tetsutaro Kobayashi.
+  TECHNICAL REPORT OF IEICE. ISEC2003-64<br>
+  本稿は、非超特異楕円曲線上のある種の自己準同型写像を用いて構成した一方向性関数を提案し、その一方向性の傍証をいくつか与える。
+
 1. [On the Fast DL Verification.][2003/15C-3.pdf]
   Fumitaka Hoshino and Tetsutaro Kobayashi.
   SCIS 2003 Proceedings 15C-3, pp.1185-1188<br>
@@ -405,6 +420,7 @@
 [2004/2B-3.pdf]:2004/2B-3.pdf
 [2004/IPSJ-JNL4508022.pdf]:2004/IPSJ-JNL4508022.pdf
 [2004/e87-a_5_1203.pdf]:2004/e87-a_5_1203.pdf
+[2003/ISEC2003.pdf]:2003/ISEC2003.pdf
 [2003/None_KEI-AUTOID-WH004.pdf]:2003/None_KEI-AUTOID-WH004.pdf
 [2003/78.pdf]:2003/78.pdf
 [2003/e86-a_1_121.pdf]:2003/e86-a_1_121.pdf
@@ -430,13 +446,3 @@
 [1999/3-540-48910-X_13.pdf]:1999/3-540-48910-X_13.pdf
 [1999/scis1999.pdf]:1999/scis1999.pdf
 [1997/ol-22-21-1630.pdf]:1997/ol-22-21-1630.pdf
-
-<!--
-|リンク          |説明                                                |
-|:--------------:|:--------------------------------------------------:|
-|[表紙][this]    |このページ                                          |
-|[github][gitrep]|github repository                                   |
-
-[this]:https://fhoshino52.github.io
-[gitrep]:https://github.com/fhoshino52/fhoshino52.github.io
--->
