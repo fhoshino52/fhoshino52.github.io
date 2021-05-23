@@ -138,6 +138,11 @@
   SCIS 2010 Proceedings 3A1-1, pp.982-987<br>
   再リンク可能リング署名とは, 署名生成能力からリング生成能力を分離できる特殊なリング署名である. この署名を用いると, 署名者から特別な秘密(再リンク鍵)を得た第三者(代理人)が, 再リンクと呼ばれる手続きにより, 既存のリング署名からメンバーを変更したリング署名を生成する事が出来る. 本論文ではこの署名系が持つ様々な制約を緩和するため, 文書依存再リンク可能リング署名の概念を提案し, その汎用的構成の方法論を与え, 2 つの具体的方式を得た.
 
+1. [CRYPTREC Report 2009 暗号方式委員会報告.][2009/cryptrec-rp-2000-2009.pdf]
+  CRYPTREC Report,
+  CRYPTREC,<br>
+  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号方式委員会の 2009 年度活動報告である。
+
 1. [Relinkable Ring Signature.][2009/978-3-642-10433-6_35.pdf]
   Koutarou Suzuki, Fumitaka Hoshino, and Tetsutaro Kobayashi.
   CANS 2009, Proceedings, LNCS 5888, pp.518-536.<br>
@@ -147,6 +152,11 @@
   Fumitaka Hoshino, Koutarou Suzuki, and Tetsutaro Kobayashi.
   SCIS 2009 Proceedings 3B4-1, pp.1250-1255<br>
   署名者の匿名性を守るための署名技術には大別して 2 つの方法がある. 一つは 1991年に Chaum らが提案したグループ署名の概念で, この方法にはグループ管理者と呼ばれる信頼できる第三者 (TTP) が登場する. もう一つは 2001 年に Rivest らが提案したリング署名の概念で, この方法にはグループ管理者が存在しない. 著者らは, このグループ署名とリング署名の間の中間に位置するような署名を提案している. 本論文では, この中間的な署名方式を改造して署名者がリング署名を生成した後にグループ管理者がリング署名の参加メンバーを変更したりリング署名を普通の署名に変換したりできる事を実現する.
+
+1. [CRYPTREC Report 2008 暗号技術監視委員会報告.][2008/cryptrec-rp-2000-2008.pdf]
+  CRYPTREC Report,
+  CRYPTREC,<br>
+  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号技術監視委員会の 2008 年度活動報告である。
 
 1. [A Point Compression Method for Subfield Curves.][2008/178_b.pdf]
   Fumitaka Hoshino and Tetsutaro Kobayashi.
@@ -162,6 +172,11 @@
   Toshiyuki Miyazawa, Fumitaka Hoshino, and Tetutaro Kobayashi.
   SCIS 2008 Proceedings 3B1 403_b, pp.1149-1153<br>
   2007 年に Dubois らは NESSIE で採択されたデジタル署名方式 SFLASH (C^∗−) の公開鍵の差分をとることにより C^∗ の公開鍵を復元する方式を示し，これによって C^∗− の公開鍵が与えられれば署名を偽造できることを示した． C^∗− のほかにも，多変数非線型方程式に基づくデジタル署名方式に対して， Dubois らの用いた差分による攻撃の有効性を評価することは重要である．本稿では， 2007 年に Ding らによって提案されたデジタル署名方式 3IC- (Delta Invertible cycle) に対して，差分を用いた攻撃の有効性を評価した． 3IC- は，多変数 2 次多項式暗号 3IC の公開鍵から (C^∗− と同様に ) 幾つかの 2 次式を削除することによって構成されるデジタル署名方式であるが，本稿では， 3IC- の公開鍵の差分を取ることによって， 3IC の公開鍵を復元できることを示す．
+
+1. [Efficient GF(3m) Multiplication Algorithm for ηT Pairing.][2007/2007-463.pdf]
+  Gen Takahashi, Fumitaka Hoshino, and Tetsutaro Kobayashi.
+  Cryptology ePrint Archive: Report 2007/463<br>
+  ηTペアリングの為の効率的なGF(3m)乗算アルゴリズム
 
 1. [Revocable Ring Signature using Revocable DDH Assumption.][2007/2B4-2.pdf]
   Koutarou Suzuki, Fumitaka Hoshino, and Tetsutaro Kobayashi.
@@ -343,16 +358,6 @@
   Optics Letters, 22(21):1630-1632.<br>
   低温におけるサブピコ秒紫外レーザ励起の下での半導体微小球中の励起子ポラリトンの球空洞モードレーザ発振を報告する. CuCl の小さいバルク結晶を溶融し、直径数～数十マイクロメータの溶融微小球を形成した.レーザ発信の閾値は 1nJ/pulse で, これは109光子/pulse に相当する. レーザ励起に応答して双励起子から縦波励起子への遷移が起こるする事を発見した.
 
-1. [CRYPTREC Report 2009 暗号方式委員会報告][CRYPTREC2009],
-  CRYPTREC,
-  CRYPTREC,<br>
-  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号方式委員会の 2009 年度活動報告である。
-
-1. [CRYPTREC Report 2008 暗号技術監視委員会報告][CRYPTREC2008],
-  CRYPTREC,
-  CRYPTREC,<br>
-  本報告書は、総務省及び経済産業省が主催している暗号技術検討会の下に設置されている暗号技術監視委員会の 2008 年度活動報告である。
-
 [2021/scis2021]:2021/scis2021.pdf
 [2020/scis2020]:2020/scis2020.pdf
 [2019/IPSJCSS2019216]:2019/IPSJCSS2019216.pdf
@@ -381,11 +386,14 @@
 [2011/2A4-1.pdf]:2011/2A4-1.pdf
 [2010/978-3-642-17455-1_5.pdf]:2010/978-3-642-17455-1_5.pdf
 [2010/3A1-1-b.pdf]:2010/3A1-1-b.pdf
+[2009/cryptrec-rp-2000-2009.pdf]:2009/cryptrec-rp-2000-2009.pdf
 [2009/978-3-642-10433-6_35.pdf]:2009/978-3-642-10433-6_35.pdf
 [2009/3B4-1.PDF]:2009/3B4-1.PDF
+[2008/cryptrec-rp-2000-2008.pdf]:2008/cryptrec-rp-2000-2008.pdf
 [2008/178_b.pdf]:2008/178_b.pdf
 [2008/416_b.pdf]:2008/416_b.pdf
 [2008/403_b.pdf]:2008/403_b.pdf
+[2007/2007-463.pdf]:2007/2007-463.pdf
 [2007/2B4-2.pdf]:2007/2B4-2.pdf
 [2007/4A1-1.pdf]:2007/4A1-1.pdf
 [2007/2E3-3.pdf]:2007/2E3-3.pdf
@@ -422,8 +430,7 @@
 [1999/3-540-48910-X_13.pdf]:1999/3-540-48910-X_13.pdf
 [1999/scis1999.pdf]:1999/scis1999.pdf
 [1997/ol-22-21-1630.pdf]:1997/ol-22-21-1630.pdf
-[CRYPTREC2009]:https://www.cryptrec.go.jp/report/cryptrec-rp-2000-2009.pdf
-[CRYPTREC2008]:https://www.cryptrec.go.jp/report/cryptrec-rp-2000-2008.pdf
+
 <!--
 |リンク          |説明                                                |
 |:--------------:|:--------------------------------------------------:|
