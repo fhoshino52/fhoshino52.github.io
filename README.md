@@ -72,7 +72,12 @@
   SCIS 2017 Proceedings 1B1-4, pp.102-109<br>
   非対称ペアリングは対称ペアリングと比較して代数的構造は複雑だが実装の効率はずっと良い. 従って, ペアリングに基づく暗号方式を構成する際， 一旦は対称ペアリング上で設計を行い，しかる後に非対称ペアリングの代数的構造に合わせ再設計し実装を得る事が多くなっている. 2016年, 阿部らは方式の安全性を維持したまま, このタスクを自動実行する効率的なアルゴリズムを発表した. 本研究ではこのアルゴリズムを簡素化して, 幾分高速化する.
 
-1. [Software-based Modification Detection of ECU for Automotive Network System Attestation.][2017/ICSS2016-39.jpg]
+1. [[Invited Talk] Fast and Scalable Bilinear-Type Conversion Using Integer Programming.][2016/ISEC2016-73.jpg]
+  Masayuki Abe, Fumitaka Hoshino, and Miyako Ohkubo,
+  Technical Report of IEICE. Vol.116(380), ISEC2016-73, p.23, Dec. 2016.<br>
+  本公演では, 2016年8月14日から18日にカルフォルニア大学サンタバーバラ校(UCSB)にて開催された第36回国際暗号学会議(CRYPTO 2016)で発表された, 双線型型変換に関する最近の結果を紹介する.
+
+1. [Software-based Modification Detection of ECU for Automotive Network System Attestation.][2016/ICSS2016-39.jpg]
   Takuma Koyama, Junko Takahashi, Fumitaka Hoshino, Masashi Tanaka,
   Technical Report of IEICE. Vol.116(328), ICSS2016-39, pp.3-8, Nov. 2016.<br>
   本稿では車載ネットワークに接続する制御機器（ECU）のソフトウェアの改竄検知方式を提案する．車外ネットワークと通信するコネクテッドカーおよび自動運転技術の研究開発が進む中，車載ネットワークに対する脅威として遠隔からのECUのソフトウェア改竄が指摘されている．提案方式では既存方式が見逃しうる改竄を検知可能とするためにECUのメモリの空き領域に検証領域を拡張した．ソフトウェアがメモリサイズの約9割以上を占める条件下では既存方式より高速に検証可能である．
