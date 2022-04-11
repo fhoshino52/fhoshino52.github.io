@@ -11,6 +11,10 @@
 # Publication List 
 ## Fumitaka Hoshino
 
+1. [On some variants of lossy trapdoor function][2022/1A4-1]
+  Fumitaka Hoshino.
+  SCIS 2022 Proceedings, 1A4-1,<br>
+  Peikert と Waters は STOC 2008 において lossy trapdoor function (LTDF) の概念を提唱し, その具体的構成と応用を提案した. その後 LTDF の構成法や拡張および応用などに関して様々な研究が行われている. ところで LTDF の拡張は方式を構成する多項式時間アルゴリズムの数が比較的多く, 複雑すぎて様々なプロトコルへの流用が難しいという問題があり, オーダーメイド的に LTDF の亜種が構成される傾向がある. ところが, 実際にはそうした拡張を具体的に構成する際は Peikert-Waters の DDH による構成をベースに機能を追加していくことが多い. そうした状況を鑑み, 本稿では様々な応用が出来そうな LTDF の比較的シンプルな亜種について考察を行いたい.
 
 1. [On the Restriction of Asymmetric Pairing based on Symmetric Pairing.][2021/scis2021]
   Fumitaka Hoshino.
@@ -392,6 +396,7 @@
   Optics Letters, 22(21):1630-1632.<br>
   低温におけるサブピコ秒紫外レーザ励起の下での半導体微小球中の励起子ポラリトンの球空洞モードレーザ発振を報告する. CuCl の小さいバルク結晶を溶融し、直径数～数十マイクロメータの溶融微小球を形成した.レーザ発信の閾値は 1nJ/pulse で, これは109光子/pulse に相当する. レーザ励起に応答して双励起子から縦波励起子への遷移が起こるする事を発見した.
 
+[2022/1A4-1]:2022/1A4-1.pdf
 [2021/scis2021]:2021/scis2021.pdf
 [2020/scis2020]:2020/scis2020.pdf
 [2019/IPSJCSS2019216]:2019/IPSJCSS2019216.pdf
